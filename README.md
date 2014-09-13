@@ -27,6 +27,11 @@ Dejo algunos ScreenShots de cada uno de los proyectos y el IDE con el que se des
 
 ![](https://github.com/EstebanFS/Computer-graphics/blob/master/ScreenShots/Camara%20Transform.JPG)
 
-* Painter Algorithm: Algoritmo del pintos, que distingue que superficies van delante de otras para saber cual ocultar y cual mostrar.
+* Painter Algorithm: Algoritmo del pintor, que distingue que superficies van delante de otras para saber cual ocultar y cual mostrar.
 
 ![](https://github.com/EstebanFS/Computer-graphics/blob/master/ScreenShots/Painter.JPG)
+
+* RayTracer: Permite crear superficies modifcando la luz alrededor, produciendo sombras, reflejos, etc. Este produce el resultado en un archivo .ppm que esta contenido en la carpeta principal.
+
+![](https://github.com/EstebanFS/Computer-graphics/blob/master/ScreenShots/rayTracer.jpg)
+
