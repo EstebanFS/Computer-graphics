@@ -1,0 +1,14 @@
+# indice color 0 <R, G, B>
+color 1,0 1,0 0,0
+# indice color 1 <R, G, B>
+color 0,8 0,8 0,8
+# indice color 2 <R, G, B>
+color 0,3 0,3 0,3
+# indice material 0 <Ka, Kd, Ks, n>
+material 0,2 0,8 0,8 10
+# indiceColor
+luzAmbiental 2
+# luz Puntual x, y, z, indiceColor
+luzPuntual 10,0 10,0 10,0 1
+# centrox, centroy, centroz radio, indiceColor, indiceMaterial
+esfera 0,0 0,0 -4,0 1,0 0 0
